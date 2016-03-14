@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "E aí, pessoal! Como vocês estão? \_Hoje trazemos uma notícia animadora para os \"Orlando Lovers\"!"
-datePublished: '2016-03-14T19:05:04.355Z'
-dateModified: '2016-03-14T19:02:30.234Z'
+datePublished: '2016-03-14T19:06:19.342Z'
+dateModified: '2016-03-14T19:05:08.303Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-e-ai-pessoal-como-voces-estao-hoje-trazemos-uma-noticia.md
